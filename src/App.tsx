@@ -6,6 +6,8 @@ import { Programs } from './components/Programs'
 import { Testimonials } from './components/Testimonials'
 import { Registration } from './components/Registration'
 import { Footer } from './components/Footer'
+import { Donate } from './components/Donate'
+;<Donate />
 
 export default function App () {
   return (
